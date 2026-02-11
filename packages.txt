@@ -1,1 +1,2 @@
-freeTDS-dev
+libgl1
+freetds-dev
