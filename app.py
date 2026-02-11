@@ -4,7 +4,6 @@ os.environ["OPENCV_VIDEOIO_PRIORITY_MSMF"] = "0"
 from ultralytics import YOLO
 from PIL import Image
 import pandas as pd
-
 import gdown
 
 # =========================
