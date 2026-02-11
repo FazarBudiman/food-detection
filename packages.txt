@@ -1,4 +1,1 @@
-libodbc2
-libodbcinst2
-libgdal-dev
-python3-opencv
+freeTDS-dev
